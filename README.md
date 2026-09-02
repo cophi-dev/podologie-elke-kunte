@@ -5,6 +5,7 @@ Next.js (App Router) + Tailwind CSS.
 
 Live: https://podologie-kunte.vercel.app
 GitHub: https://github.com/cophi-dev/podologie-elke-kunte
+Vercel: https://vercel.com/cophidevs-projects/temporary-fleet-orbit-y75ba6z
 
 ## Lokal starten
 
@@ -28,16 +29,11 @@ pnpm start
 
 ## Deployment
 
-Das Vercel-Projekt `podologie-kunte` ist **nicht** automatisch mit diesem GitHub-Repo verbunden.
-Ein Merge auf `main` ändert die Live-URL deshalb nicht von allein.
+Ein GitHub-Merge aktualisiert Vercel nur, wenn dieses Repository an das Vercel-Projekt
+`cophidevs-projects/temporary-fleet-orbit-y75ba6z` angebunden ist
+(Production-Domain: https://podologie-kunte.vercel.app).
 
-Damit https://podologie-kunte.vercel.app den aktuellen Stand zeigt:
-
-1. In Vercel das Projekt `podologie-kunte` öffnen
-2. **Settings → Git → Connect Git Repository**
-3. `cophi-dev/podologie-elke-kunte` wählen, Production Branch `main`
-
-Danach deployed jeder Push auf `main` die Seite neu.
+Production Branch: `main`
 
 Optionale Umgebungsvariable:
 
