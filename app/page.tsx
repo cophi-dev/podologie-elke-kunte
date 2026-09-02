@@ -36,16 +36,16 @@ export default function HomePage() {
               Hamburg · Lindenstraße 29
             </p>
             <h1 className="serif mt-4 text-4xl leading-[1.08] text-navy md:text-6xl lg:text-[4.1rem]">
-              Fachpraxis für medizinische Fussbehandlungen
+              Fachpraxis für medizinische Fußbehandlungen
             </h1>
             <p className="mt-6 max-w-xl text-lg leading-relaxed text-ink-soft">
-              Ich heiße Sie in der Fachpraxis für med. Fußbehandlungen Elke Kunte herzlich willkommen.
+              Ich heiße Sie in meiner Fachpraxis für medizinische Fußbehandlungen herzlich willkommen.
               Mein Podologen-Team und ich stehen Ihnen gern mit Rat und Tat zur Seite – wenn Sie Hilfe
               brauchen oder eine fachliche Orientierung für Ihre Fußgesundheit suchen.
             </p>
             <div className="mt-8 flex flex-wrap gap-3">
               <a href={site.phoneHref} className="btn-primary">
-                Termin: {site.phoneDisplay}
+                Termin vereinbaren · {site.phoneDisplay}
               </a>
               <Link href="/leistungen" className="btn-ghost">
                 Leistungen & Preise

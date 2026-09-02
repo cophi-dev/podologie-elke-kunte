@@ -52,8 +52,8 @@ export default function PodologiePage() {
             </p>
             <p>
               Der ausgebildete Podologe ist in der Lage, Risikopatienten wie Diabetiker, Bluter und Rheumatiker
-              fachgerecht zu behandeln. Der Podologe führt selbständig fußpflegerische Behandlungsmaßnahmen durch und
-              erkennt eigenständig krankhafte Veränderungen am Fuß, die ärztliche Behandlung erfordern. Dieser gilt als
+              fachgerecht zu behandeln. Der Podologe führt selbstständig fußpflegerische Behandlungsmaßnahmen durch und
+              erkennt eigenständig krankhafte Veränderungen am Fuß, die ärztliche Behandlung erfordern. Er gilt als
               Mittler zwischen Patient, Arzt, Orthopädieschuhmacher und Krankengymnast.
             </p>
           </div>

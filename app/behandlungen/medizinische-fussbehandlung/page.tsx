@@ -14,7 +14,7 @@ const items = [
   "Anamnese / Aufnahme der patientenspezifischen Daten",
   "Schneiden und Feilen der Nägel",
   "Schmerzfreies Entfernen von eingewachsenen Nägeln",
-  "Bei Erfordernis Oberflächenbetäubung",
+  "Bei Bedarf Oberflächenbetäubung",
   "Schonende Entfernung der Nagelhaut",
   "Entfernen der Hornhaut per Fräsertechnik",
   "Entfernen von Schwielen",
@@ -35,7 +35,7 @@ export default function MedizinischeFussbehandlungPage() {
       <section className="mx-auto max-w-3xl px-5 py-14 lg:px-8">
         <div className="prose-kunte">
           <p>
-            Auf Grund meiner erworbenen Qualifikation als Heilpraktikerin für Podologie gelten ab dem 1. März 2017
+            Aufgrund meiner erworbenen Qualifikation als Heilpraktikerin für Podologie gelten ab dem 1. März 2017
             die Abrechnungsvergütungen nach der Gebührenordnung für Ärzte (GOÄ) sowie deren Gebührenverzeichnis
             für Heilpraktiker (GebüH). Zur Behandlung benötigen Sie keine ärztliche Verordnung, da die Diagnosestellung
             eigenständig vorgenommen wird. Es besteht die Möglichkeit der Erstattung von Behandlungskosten durch

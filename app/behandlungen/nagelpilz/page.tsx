@@ -22,7 +22,7 @@ export default function NagelpilzPage() {
           <div className="prose-kunte max-w-2xl">
             <p>
               An diesem Gesundheitsproblem leiden mehr als 20 % der Erwachsenen. Ursache dafür sind meist Fadenpilze,
-              aber auch Hefen- oder Schimmelpilze. Diese Infektionen können ebenfalls Ursache für weitere Erkrankungen
+              aber auch Hefe- oder Schimmelpilze. Diese Infektionen können ebenfalls Ursache für weitere Erkrankungen
               sein.
             </p>
             <p>

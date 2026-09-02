@@ -69,7 +69,7 @@ export const priceGroups: PriceGroup[] = [
     items: [
       {
         name: "Schmerzloses Entfernen eingewachsener Nägel",
-        detail: "bei Erfordernis Oberflächenbetäubung",
+        detail: "bei Bedarf Oberflächenbetäubung",
         price: "90,00 €",
       },
       {
@@ -84,7 +84,7 @@ export const priceGroups: PriceGroup[] = [
       },
       {
         name: "Hühneraugenentfernung",
-        detail: "bei Erfordernis Oberflächenbetäubung, nach Aufwand",
+        detail: "bei Bedarf Oberflächenbetäubung, nach Aufwand",
         price: "ab 30,00 €",
       },
       {

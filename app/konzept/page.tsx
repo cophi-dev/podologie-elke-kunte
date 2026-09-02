@@ -47,15 +47,15 @@ export default function KonzeptPage() {
             Leider vergüten die Krankenkassen keine Arbeitsqualität. Der Einsatz wird lediglich pauschal vergütet, egal
             wie hoch der Behandlungsaufwand ist. Aus diesem Grunde habe ich mich schweren Herzens und meiner
             Professionalität folgend entschlossen, meine Kassenzulassung zurückzugeben. Seitdem beschäftige ich
-            ausschließlich von mir ausgebildete Podologen, die mit mir gemeinsam für das Wohl des Patientenfußes das
+            ausschließlich von mir ausgebildete Podologen, die mit mir gemeinsam für das Wohl der Patientenfüße das
             Richtige tun.
           </p>
           <p>
             Als letzter Hinweis sei mir gestattet, auch auf die soziale Arbeitsweise meiner Praxis zu verweisen. Ein
-            kleiner Patientenstamm wird durch mich und meine Mitarbeiter aufgrund der jahrelangen Praxisbindung oder der
-            schwerwiegenden Fußprobleme und einem geringen Einkommen kostenfrei behandelt. Ich hoffe, Sie haben Verständnis
-            dafür und dass alle Veränderungen in der Praxis-Tätigkeit eine Veränderung der Behandlungspreise erforderlich
-            gemacht haben.
+            kleiner Patientenstamm wird durch mich und meine Mitarbeiter aufgrund der jahrelangen Praxisbindung oder
+            wegen schwerwiegender Fußprobleme und eines geringen Einkommens kostenfrei behandelt. Ich hoffe auf Ihr
+            Verständnis dafür, dass alle Veränderungen in der Praxistätigkeit eine Anpassung der Behandlungspreise
+            erforderlich gemacht haben.
           </p>
           <p>
             Die angegebenen Behandlungspreise sind nur Richtwerte, denn jeder Patient wird bei uns individuell behandelt,

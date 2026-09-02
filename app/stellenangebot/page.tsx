@@ -19,8 +19,8 @@ export default function StellenangebotPage() {
       <section className="mx-auto max-w-3xl px-5 py-14 lg:px-8">
         <div className="prose-kunte">
           <p>
-            Sie / Er sollte entsprechende Berufserfahrung vorweisen können und einen qualifizierten als auch sensiblen
-            Umgang am Patienten für selbstverständlich halten. Wichtig ist ein solides berufliches Grundwissen.
+            Sie oder er sollte entsprechende Berufserfahrung vorweisen können und einen qualifizierten und zugleich
+            sensiblen Umgang am Patienten für selbstverständlich halten. Wichtig ist ein solides berufliches Grundwissen.
           </p>
           <p>
             Bei der Einarbeitung in spezielle Behandlungsmethoden bin ich gern behilflich. Diese Ergänzung zu Ihren
@@ -30,8 +30,8 @@ export default function StellenangebotPage() {
           <p>
             Die Tätigkeit am Patienten erfolgt ohne den typischen Zeit- und Arbeitsdruck, da der in podologischen Praxen
             maximal übliche Halbstundentakt hier nicht zur Anwendung kommt. Für meine Patienten halte ich eine längere und
-            somit gründlichere Behandlungszeit für angemessen. Das Patientenbedürfnis nach fachgerechter Behandlung als
-            auch die physische Belastbarkeit des ausführenden Podologen werden im Einklang sein.
+            somit gründlichere Behandlungszeit für angemessen. Sowohl das Bedürfnis der Patienten nach fachgerechter
+            Behandlung als auch die physische Belastbarkeit des ausführenden Podologen stehen dabei im Einklang.
           </p>
           <p>
             Durch Ihre fachlich kompetente Arbeit wird eine entsprechende Vergütungshöhe erreicht, welche Sie

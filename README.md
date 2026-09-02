@@ -1,6 +1,6 @@
 # Podologie Elke Kunte
 
-Neue Website der Fachpraxis für medizinische Fussbehandlungen Elke Kunte, Hamburg.
+Neue Website der Fachpraxis für medizinische Fußbehandlungen Elke Kunte, Hamburg.
 Next.js (App Router) + Tailwind CSS.
 
 ## Lokal starten

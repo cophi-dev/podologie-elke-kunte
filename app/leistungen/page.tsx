@@ -23,7 +23,7 @@ export default function LeistungenPage() {
       <section className="mx-auto max-w-6xl px-5 py-12 lg:px-8">
         <div className="surface rounded-3xl p-6 md:p-8">
           <p className="text-sm leading-relaxed text-ink-soft">
-            Aufgrund erhöhter Hygieneanforderungen wurden die Preise ab 2020/21 angepasst. Auf Grund der
+            Aufgrund erhöhter Hygieneanforderungen wurden die Preise ab 2020/21 angepasst. Aufgrund der
             Qualifikation als Heilpraktikerin für Podologie gelten Abrechnungsvergütungen nach der Gebührenordnung
             für Ärzte (GOÄ) sowie dem Gebührenverzeichnis für Heilpraktiker (GebüH). Zur Behandlung benötigen Sie
             keine ärztliche Verordnung. Private Krankenkassen können Behandlungskosten erstatten.

@@ -43,7 +43,7 @@ export default function MassagenPage() {
         <div className="prose-kunte">
           <p>
             Die Fußreflexzonentherapie am Fuß wirkt ganzheitlich. Sie regt die Selbstheilungsimpulse des Menschen an und
-            unterstützt seine Lebenskraft auf allen Ebenen. Wie auf einer Landkarte in Kleinformat lassen sich alle Organe
+            unterstützt seine Lebenskraft auf allen Ebenen. Wie auf einer Landkarte im Kleinformat lassen sich alle Organe
             und Systeme des Menschen exakt bestimmen und therapieren. Nach dieser Therapie wissen Sie, was es heißt,
             äußerlich und innerlich „guten Boden“ unter den Füßen zu haben.
           </p>
