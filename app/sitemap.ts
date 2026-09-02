@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const base = process.env.NEXT_PUBLIC_SITE_URL ?? "https://podologie-elke-kunte.vercel.app";
+const base = process.env.NEXT_PUBLIC_SITE_URL ?? "https://podologie-kunte.vercel.app";
 
 export const dynamic = "force-static";
 
