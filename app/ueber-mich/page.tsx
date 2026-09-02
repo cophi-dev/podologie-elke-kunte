@@ -27,7 +27,7 @@ export default function UeberMichPage() {
               bringen.
             </p>
             <p>
-              Alle Veränderungen und deren Auswirkung auf die Fußgesundheit des Körpers haben mich schon immer fasziniert.
+              Alle Veränderungen und deren Auswirkungen auf die Fußgesundheit haben mich schon immer fasziniert.
               Ich wollte wissen: „Warum ist das so und wo kommt das her?“ Einfach den Dingen auf den Grund gehen.
             </p>
             <p>
@@ -52,8 +52,8 @@ export default function UeberMichPage() {
             2005 in Deutschland ihre Podologen-Prüfung ab. Sie und ich wurden von den gleichen Dozenten ausgebildet.
           </p>
           <p>
-            Ihr Lebensweg führte sie zunächst nach Großbritannien, wo sie weitere zwei Jahre Podologie an der Durham
-            Universität studierte. Seit 2010 lebt sie mit ihrer Familie in Florida/USA und betreibt eine Praxis für
+            Ihr Lebensweg führte sie zunächst nach Großbritannien, wo sie weitere zwei Jahre Podologie an der
+            Universität Durham studierte. Seit 2010 lebt sie mit ihrer Familie in Florida/USA und betreibt eine Praxis für
             Fußgesundheit mit drei Mitarbeitern.
           </p>
           <p>
