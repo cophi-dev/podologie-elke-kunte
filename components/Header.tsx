@@ -106,7 +106,7 @@ function HeaderInner({ pathname }: { pathname: string }) {
               ),
             )}
             <a href={site.phoneHref} className="btn-primary mt-3">
-              Anrufen: {site.phoneDisplay}
+              Termin vereinbaren · {site.phoneDisplay}
             </a>
           </nav>
         </div>

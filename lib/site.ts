@@ -6,9 +6,9 @@ export function asset(path: string) {
 
 export const site = {
   name: "Podologie Elke Kunte",
-  legalName: "Fachpraxis für medizinische Fussbehandlungen",
+  legalName: "Fachpraxis für medizinische Fußbehandlungen",
   owner: "Podologin Elke Kunte",
-  titleSuffix: "Fachpraxis für medizinische Fussbehandlungen",
+  titleSuffix: "Fachpraxis für medizinische Fußbehandlungen",
   description:
     "Fachpraxis für medizinische Fußbehandlungen in Hamburg. Podologin Elke Kunte und Team – Heilkunde auf dem Gebiet der Podologie, ohne Rezept. Lindenstraße 29, 20099 Hamburg.",
   street: "Lindenstraße 29",
