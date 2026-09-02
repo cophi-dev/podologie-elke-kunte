@@ -1,15 +1,4 @@
 {
   "framework": "nextjs",
-  "installCommand": "pnpm install",
-  "buildCommand": "pnpm build",
-  "build": {
-    "env": {
-      "NEXT_PUBLIC_SITE_URL": "https://podologie-kunte.vercel.app"
-    }
-  },
-  "git": {
-    "deploymentEnabled": {
-      "main": true
-    }
-  }
+  "installCommand": "corepack enable && corepack prepare pnpm@10.33.3 --activate && pnpm install --no-frozen-lockfile"
 }
