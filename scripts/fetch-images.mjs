@@ -51,6 +51,20 @@ const files = {
   "nagelpilz-ergebnis.jpg": "https://www.podologie-elke-kunte.de/s/cc_images/teaserbox_2497262611.jpg?t=1733322957",
 };
 
+async function download(url) {
+  try {
+    const res = await fetch(url);
+    if (!res.ok) {
+      console.warn("skip", url, res.status);
+      return null;
+    }
+    return Buffer.from(await res.arrayBuffer());
+  } catch (err) {
+    console.warn("skip", url, err.message);
+    return null;
+  }
+}
+
 async function main() {
   fs.mkdirSync(outDir, { recursive: true });
   for (const [name, url] of Object.entries(files)) {
@@ -58,17 +72,15 @@ async function main() {
     if (fs.existsSync(dest) && fs.statSync(dest).size > 1000) {
       continue;
     }
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(`Failed ${url}: ${res.status}`);
-    const buf = Buffer.from(await res.arrayBuffer());
+    const buf = await download(url);
+    if (!buf) continue;
     fs.writeFileSync(dest, buf);
     console.log("fetched", name, buf.length);
   }
   for (const [dest, url] of Object.entries(extras)) {
     if (fs.existsSync(dest) && fs.statSync(dest).size > 100) continue;
-    const res = await fetch(url);
-    if (!res.ok) throw new Error(`Failed ${url}: ${res.status}`);
-    const buf = Buffer.from(await res.arrayBuffer());
+    const buf = await download(url);
+    if (!buf) continue;
     fs.writeFileSync(dest, buf);
     console.log("fetched", path.basename(dest), buf.length);
   }
